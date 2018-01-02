@@ -50,7 +50,7 @@ ul.connect {
     width: 100%;
     background-image: url("../images/windingRoad2.png");
     /*background-repeat: repeat-y;*/
-    background-size: contain;
+    background-size: 100% 800px;
 }
 #tabs {
    float:left;
