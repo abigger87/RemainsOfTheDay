@@ -43,6 +43,8 @@ ul.connect {
     width: 100%;
     height: 100px;
     color: white;
+    display: table;
+    position: absolute;
     text-align: center;
 }
 .mainBody{
@@ -54,6 +56,7 @@ ul.connect {
 }
 #titlediv {
     vertical-align: middle;
+    display: table-cell;
 }
 #tabs {
    float:left;
