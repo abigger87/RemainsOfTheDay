@@ -5,7 +5,7 @@ html, body {
     width:100%;
     background:#2e2c38;
     /*font-family: 'Nunito', sans-serif;*/
-    font-family: 'Apple Chancery';
+    font-family: 'Apple Chancery', cursive;
 }
 .connect {
     position: absolute;
