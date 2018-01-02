@@ -49,7 +49,7 @@ ul.connect {
     height: 2000px;
     width: 100%;
     background-image: url("../images/windingRoad2.png");
-    background-repeat: repeat-y;
+    /*background-repeat: repeat-y;*/
     background-size: contain;
 }
 #tabs {
