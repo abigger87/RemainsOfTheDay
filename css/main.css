@@ -112,6 +112,7 @@ ul.tab li a:focus, .active {
     background-color: lighter(60%);
 }
 .copy-section {
+    font-family: 'Nunito', sans-serif;
     padding: 2em 0;
     background: #2e2c38;
     text-align: center;
