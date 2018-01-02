@@ -47,7 +47,7 @@ ul.connect {
 .mainBody{
     height: 100%;
     width:100%;
-    background-image: url("images/windingRoad2.png");
+    background-image: url("../images/windingRoad2.png");
 }
 #tabs {
    float:left;
