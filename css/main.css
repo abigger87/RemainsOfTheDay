@@ -52,6 +52,9 @@ ul.connect {
     /*background-repeat: repeat-y;*/
     background-size: 100% 1200px;
 }
+#titlediv {
+    vertical-align: middle;
+}
 #tabs {
    float:left;
    background-color: #2e2c38;
