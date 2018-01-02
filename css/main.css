@@ -49,6 +49,8 @@ ul.connect {
     height: 100%;
     width:100%;
     background-image: url("../images/windingRoad2.png");
+    background-repeat: repeat-y;
+    background-size: auto;
 }
 #tabs {
    float:left;
