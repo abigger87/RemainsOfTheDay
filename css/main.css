@@ -4,7 +4,8 @@ html, body {
     height: 100%;
     width:100%;
     background:#2e2c38;
-    font-family: 'Nunito', sans-serif;
+    /*font-family: 'Nunito', sans-serif;*/
+    font-family: 'Apple Chancery';
 }
 .connect {
     position: absolute;
