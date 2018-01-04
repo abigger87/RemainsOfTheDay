@@ -213,6 +213,15 @@ ul.tab li a:focus, .active {
 
 @media (min-width: 930px) {
     #beginning, #DarlingtonHall, #Taunton, #Compton, #Regret {
+        right: 5%;
+    }
+    #salisbury, #MortimerPond, #Moscombe, #Weymouth {
+        left: 5%;
+    }
+}
+
+@media (min-width: 100px) {
+    #beginning, #DarlingtonHall, #Taunton, #Compton, #Regret {
         right: 0;
     }
     #salisbury, #MortimerPond, #Moscombe, #Weymouth {
