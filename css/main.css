@@ -17,24 +17,40 @@ img {
     text-align: center;
 }
 #salisbury{
+    position: relative;
+    left: 0;
+    width: 300px;
+    height: 300px;
     text-align: center;
 }
 #DarlingtonHall {
+    width: 300px;
+    height: 300px;
     text-align: center;
 }
 #MortimerPond {
+    width: 300px;
+    height: 300px;
     text-align: center;
 }
 #Taunton {
+    width: 300px;
+    height: 300px;
     text-align: center;
 }
 #Moscombe {
+    width: 300px;
+    height: 300px;
     text-align: center;
 }
 #Compton {
+    width: 300px;
+    height: 300px;
     text-align: center;
 }
 #Weymouth {
+    width: 300px;
+    height: 300px;
     text-align: center;
 }
 .connect {
