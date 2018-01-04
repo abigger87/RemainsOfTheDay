@@ -13,7 +13,7 @@ img {
 }
 #beginning {
     position: absolute;
-    right: 25%;
+    right: 5%;
     top: 200px;
     width: 300px;
     height: 300px;
@@ -22,7 +22,7 @@ img {
 #salisbury{
     position: absolute;
     top: 500px;
-    left: 25%;
+    left: 5%;
     width: 300px;
     height: 300px;
     text-align: center;
@@ -30,7 +30,7 @@ img {
 #DarlingtonHall {
     position: absolute;
     top: 800px;
-    right: 25%;
+    right: 5%;
     width: 300px;
     height: 300px;
     text-align: center;
@@ -38,14 +38,14 @@ img {
 #MortimerPond {
     position: absolute;
     top: 1100px;
-    left: 25%;
+    left: 5%;
     width: 300px;
     height: 300px;
     text-align: center;
 }
 #Taunton {
     position: absolute;
-    right: 25%;
+    right: 5%;
     top: 1400px;
     width: 300px;
     height: 300px;
@@ -54,14 +54,14 @@ img {
 #Moscombe {
     position: absolute;
     top: 1700px;
-    left: 25%;
+    left: 5%;
     width: 300px;
     height: 300px;
     text-align: center;
 }
 #Compton {
     position: absolute;
-    right: 25%;
+    right: 5%;
     top: 2000px;
     width: 300px;
     height: 300px;
@@ -70,14 +70,14 @@ img {
 #Weymouth {
     position: absolute;
     top: 2300px;
-    left: 25%;
+    left: 5%;
     width: 300px;
     height: 300px;
     text-align: center;
 }
 #Regret {
     position: absolute;
-    right: 25%;
+    right: 5%;
     top: 2600px;
     width: 300px;
     height: 300px;
