@@ -12,7 +12,7 @@ img {
     height: 100px;
 }
 #beginning {
-    position: relative;
+    position: absolute;
     right: 0;
     width: 300px;
     height: 300px;
@@ -24,7 +24,7 @@ img {
     text-align: center;
 }
 #DarlingtonHall {
-    position: relative;
+    position: absolute;
     right: 0;
     width: 300px;
     height: 300px;
@@ -36,7 +36,7 @@ img {
     text-align: center;
 }
 #Taunton {
-    position: relative;
+    position: absolute;
     right: 0;
     width: 300px;
     height: 300px;
@@ -48,7 +48,7 @@ img {
     text-align: center;
 }
 #Compton {
-    position: relative;
+    position: absolute;
     right: 0;
     width: 300px;
     height: 300px;
