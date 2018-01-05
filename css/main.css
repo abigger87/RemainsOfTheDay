@@ -26,6 +26,7 @@ img {
     height: 300px;
 }
 #center {
+    width: 100%;
     text-align: center;
 }
 #beginning {
