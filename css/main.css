@@ -25,6 +25,9 @@ img {
     width: 195px;
     height: 300px;
 }
+#center {
+    text-align: center;
+}
 #beginning {
     position: absolute;
     right: 5%;
