@@ -136,6 +136,12 @@ ul.connect {
     /*background-repeat: repeat-y;*/
     background-size: 100% 1200px;
 }
+.authorbody {
+   background: #F8ECC2;
+   height: 2750px;
+   width: 100%;
+   text-align: center;
+}
 #titlediv {
     vertical-align: middle;
     display: table-cell;
