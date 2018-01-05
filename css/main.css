@@ -21,6 +21,10 @@ img {
     width: 300px;
     height: 300px;
 }
+#remainsBook {
+    width: 195px;
+    height: 300px;
+}
 #beginning {
     position: absolute;
     right: 5%;
