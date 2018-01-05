@@ -10,6 +10,9 @@ html, body {
 html {
     overflow-x: hidden;
 }
+a:link {
+   color:inherit;
+}
 #content-full {
     text-align: justify;
 }
